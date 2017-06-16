@@ -1,0 +1,2 @@
+# CocoapodsSpec
+test create cocoapods
